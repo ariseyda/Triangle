@@ -1,1 +1,6 @@
-# Triangle-with- *
+# Triangle
+*
+* *
+* * *
+* * * *
+* * * * *
