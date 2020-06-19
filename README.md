@@ -1,4 +1,5 @@
-# Triangle *
+# Triangle 
+           *
            * *
            * * *
            * * * *
